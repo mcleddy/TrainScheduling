@@ -1,10 +1,9 @@
 
 var config = {
-    apiKey: "AIzaSyAuW4LPEIfCCkBKR0uw-HfaAuROJ-l89rA",
-    authDomain: "trainscheduling-73f08.firebaseapp.com",
-    databaseURL: "https://trainscheduling-73f08.firebaseio.com/trainName/mOSp8Z7iHIyATMxE8i4D",
-    storageBucket: "gs://trainscheduling-73f08.appspot.com"
-
+    apiKey: "AIzaSyCcPFcbAjIsgXGQwE-A3AcOXkeD40qypE8",
+    authDomain: "train-times-93583.firebaseapp.com",
+    databaseURL: "https://train-times-93583.firebaseio.com",
+    storageBucket: "train-times-93583.appspot.com"
 };
 
 firebase.initializeApp(config);
